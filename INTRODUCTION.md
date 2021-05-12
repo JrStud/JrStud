@@ -8,6 +8,7 @@ familiar with:
 Currently Learning:
   -Google Coursera IT certification
   -Linux on my unRAID NAS
+  -github
   
 Tools at my disposal:
   -Raspberry PI
@@ -28,3 +29,5 @@ Interests:
 -faking my knowledge of macOS and apple products
 -javaScript
 -other tools to learn things or easily learn things
+-github
+-formatting of txt files within github
